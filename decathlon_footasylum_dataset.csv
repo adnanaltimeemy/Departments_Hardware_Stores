@@ -1,0 +1,11 @@
+Company,Revenue_Million,Profit_Margin_Percent,Age_Group,Gender,Region,Customer_Review,Profit_Class,Clean_Review
+Decathlon,15600,6.0,25-40,Male,London,Affordable sports gear with excellent quality,High,decathlon
+Decathlon,15200,6.5,18-35,Female,Manchester,Great value products and friendly staff,High,decathlon
+Decathlon,15800,5.8,30-50,Male,Birmingham,Wide range of equipment and reasonable prices,High,decathlon
+Decathlon,16000,6.2,18-30,Female,Leeds,Good beginner products but limited premium range,High,decathlon
+Decathlon,16200,6.9,25-45,Male,Glasgow,Durable and reliable sports equipment,High,decathlon
+Footasylum,349,4.5,16-24,Male,London,Trendy trainers and popular brands,Low,footasylum
+Footasylum,330,4.8,16-24,Male,Liverpool,Youth focused styles and great fashion,Low,footasylum
+Footasylum,360,5.1,18-30,Female,Manchester,Good selection but expensive,Low,footasylum
+Footasylum,375,5.5,16-24,Male,Leeds,Popular streetwear and exclusive collections,Low,footasylum
+Footasylum,390,6.0,18-35,Female,Bristol,Cool designs but availability issues,High,footasylum
